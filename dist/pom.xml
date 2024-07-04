@@ -21,7 +21,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>Quests-${project.version}</finalName>
+                    <finalName>Quests</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                 </configuration>
                 <version>3.3.0</version>
